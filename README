@@ -1,0 +1,3 @@
+Rearranges railroad cars from an input track to an output track in ascending order, using holding tracks that act in a LIFO manner.
+
+Example: input track [581742963] —> output track [987654321]
